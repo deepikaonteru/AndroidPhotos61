@@ -1,0 +1,2 @@
+My application assumes the photos that can be added to an album will be stored in the res/drawable directory prior
+to the initial run of the application

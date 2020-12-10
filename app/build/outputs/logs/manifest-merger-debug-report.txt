@@ -1,0 +1,264 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:2:1-98:12
+INJECTED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:2:1-98:12
+INJECTED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:2:1-98:12
+INJECTED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:2:1-98:12
+MERGED from [com.android.support:design:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/e23e84c7c534e233cc72ef6b3ce3e305/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/0fe5ce98690db603ce61c8a1b9a3f8c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/c0778f7e16d2ba9bab3095b6b8d9b458/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/e45790123bec41d3899a1f8b3df575c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/d216c873df1601ef95b6e8e0e45dd95a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/f7a0ccccb7292305f8b63131d17ee986/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/5e3a015ed74d2afbb284e2e27892f194/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/99a757e72a70e9e062d9cfc1ca133426/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/e101d98cbb84fdab1b0fbd701e428dd4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/685307c09c3e29c530801f92e27b948f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/894182d92a38c0e3f1cc5e4cbe4cc657/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/dbe73dde950d2ba6d82749936a779744/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/5e72515d6b2b7c13e925ea8f676a28ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/4314a8054053c877270688840a174b41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/6c199f5426a938f321059b045d9e7002/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/3276e9c33b8aa60109fca635e5a1af4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/f69bbf9b32bf45633b5ff48917e18179/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/96ca5b1d621cb6e7c40188acab21c893/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/c4b46f6cf1cd9508d828637b3492248a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/289be4ab2584a25e0d78e05e4f5fbb91/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/a260a8a90a1dcba620d3c122c1b837dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/3268d87c6dd616c3e17c011b98f5928e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/4448a0c8761b6494a21f695eae641896/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/0b0d183b7183b0e584ed209307054b34/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/7851746db9097c87d42d3f4286a1c3ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/9a568f51bd474982211266f3194534c5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/bc424bba8c476211bed9b0c5bc6abaf5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/e090be277ee0126bb484be7eb5859009/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/fb041c70af2dd36d67ec47c8c014ef92/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/f17ceeff8b2ae49591ff1cac735dbf08/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/e76d791a303bb8953af35d023d0d71b2/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:2:1-98:12
+INJECTED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:2:1-98:12
+INJECTED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:2:1-98:12
+	package
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:2:1-98:12
+		INJECTED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:2:1-98:12
+		INJECTED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:8:5-96:19
+MERGED from [com.android.support:design:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/e23e84c7c534e233cc72ef6b3ce3e305/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/e23e84c7c534e233cc72ef6b3ce3e305/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/c0778f7e16d2ba9bab3095b6b8d9b458/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/c0778f7e16d2ba9bab3095b6b8d9b458/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/c4b46f6cf1cd9508d828637b3492248a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/c4b46f6cf1cd9508d828637b3492248a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/289be4ab2584a25e0d78e05e4f5fbb91/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/289be4ab2584a25e0d78e05e4f5fbb91/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/c4b46f6cf1cd9508d828637b3492248a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.androidphotos61.SearchResults
+ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:15:9-23:20
+	android:parentActivityName
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:18:13-84
+	android:label
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:17:13-66
+	android:theme
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:16:13-69
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:20:13-22:78
+	android:value
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:22:17-75
+	android:name
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:21:17-63
+activity#com.example.androidphotos61.SearchActivity
+ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:24:9-32:20
+	android:parentActivityName
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:27:13-82
+	android:label
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:26:13-58
+	android:theme
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:25:13-70
+activity#com.example.androidphotos61.MoveToAlbum
+ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:33:9-41:20
+	android:parentActivityName
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:36:13-82
+	android:label
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:35:13-65
+	android:theme
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:34:13-67
+activity#com.example.androidphotos61.AddTag
+ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:42:9-50:20
+	android:parentActivityName
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:45:13-82
+	android:label
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:44:13-59
+	android:theme
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:43:13-62
+activity#com.example.androidphotos61.PhotoDisplay
+ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:51:9-59:20
+	android:parentActivityName
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:54:13-80
+	android:label
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:53:13-65
+	android:theme
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:55:13-56
+	android:name
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:52:13-68
+activity#com.example.androidphotos61.AddPhoto
+ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:60:9-68:20
+	android:parentActivityName
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:63:13-80
+	android:label
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:62:13-61
+	android:theme
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:64:13-56
+	android:name
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:61:13-64
+activity#com.example.androidphotos61.PhotosList
+ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:69:9-77:20
+	android:parentActivityName
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:72:13-82
+	android:label
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:71:13-63
+	android:theme
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:73:13-56
+	android:name
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:70:13-66
+activity#com.example.androidphotos61.AddAlbum
+ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:78:9-86:20
+	android:parentActivityName
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:81:13-82
+	android:label
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:80:13-61
+	android:theme
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:82:13-56
+	android:name
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:79:13-64
+activity#com.example.androidphotos61.MainActivity
+ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:87:9-95:20
+	android:label
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:89:13-35
+	android:name
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:88:13-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:90:13-94:29
+action#android.intent.action.MAIN
+ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:91:17-69
+	android:name
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:91:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:93:17-77
+	android:name
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml:93:27-74
+uses-sdk
+INJECTED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml
+INJECTED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/e23e84c7c534e233cc72ef6b3ce3e305/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/e23e84c7c534e233cc72ef6b3ce3e305/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/0fe5ce98690db603ce61c8a1b9a3f8c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/0fe5ce98690db603ce61c8a1b9a3f8c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/c0778f7e16d2ba9bab3095b6b8d9b458/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/c0778f7e16d2ba9bab3095b6b8d9b458/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/e45790123bec41d3899a1f8b3df575c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/e45790123bec41d3899a1f8b3df575c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/d216c873df1601ef95b6e8e0e45dd95a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/d216c873df1601ef95b6e8e0e45dd95a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/f7a0ccccb7292305f8b63131d17ee986/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/f7a0ccccb7292305f8b63131d17ee986/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/5e3a015ed74d2afbb284e2e27892f194/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/5e3a015ed74d2afbb284e2e27892f194/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/99a757e72a70e9e062d9cfc1ca133426/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/99a757e72a70e9e062d9cfc1ca133426/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/e101d98cbb84fdab1b0fbd701e428dd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/e101d98cbb84fdab1b0fbd701e428dd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/685307c09c3e29c530801f92e27b948f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/685307c09c3e29c530801f92e27b948f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/894182d92a38c0e3f1cc5e4cbe4cc657/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/894182d92a38c0e3f1cc5e4cbe4cc657/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/dbe73dde950d2ba6d82749936a779744/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/dbe73dde950d2ba6d82749936a779744/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/5e72515d6b2b7c13e925ea8f676a28ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/5e72515d6b2b7c13e925ea8f676a28ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/4314a8054053c877270688840a174b41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/4314a8054053c877270688840a174b41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/6c199f5426a938f321059b045d9e7002/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/6c199f5426a938f321059b045d9e7002/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/3276e9c33b8aa60109fca635e5a1af4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/3276e9c33b8aa60109fca635e5a1af4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/f69bbf9b32bf45633b5ff48917e18179/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/f69bbf9b32bf45633b5ff48917e18179/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/96ca5b1d621cb6e7c40188acab21c893/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/96ca5b1d621cb6e7c40188acab21c893/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/c4b46f6cf1cd9508d828637b3492248a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/c4b46f6cf1cd9508d828637b3492248a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/289be4ab2584a25e0d78e05e4f5fbb91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/289be4ab2584a25e0d78e05e4f5fbb91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/a260a8a90a1dcba620d3c122c1b837dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/a260a8a90a1dcba620d3c122c1b837dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/3268d87c6dd616c3e17c011b98f5928e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/3268d87c6dd616c3e17c011b98f5928e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/4448a0c8761b6494a21f695eae641896/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/4448a0c8761b6494a21f695eae641896/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/0b0d183b7183b0e584ed209307054b34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/0b0d183b7183b0e584ed209307054b34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/7851746db9097c87d42d3f4286a1c3ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/7851746db9097c87d42d3f4286a1c3ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/9a568f51bd474982211266f3194534c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/9a568f51bd474982211266f3194534c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/bc424bba8c476211bed9b0c5bc6abaf5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/bc424bba8c476211bed9b0c5bc6abaf5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/e090be277ee0126bb484be7eb5859009/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/e090be277ee0126bb484be7eb5859009/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/fb041c70af2dd36d67ec47c8c014ef92/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/fb041c70af2dd36d67ec47c8c014ef92/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/f17ceeff8b2ae49591ff1cac735dbf08/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/f17ceeff8b2ae49591ff1cac735dbf08/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/e76d791a303bb8953af35d023d0d71b2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/deepikaonteru/.gradle/caches/transforms-2/files-2.1/e76d791a303bb8953af35d023d0d71b2/AndroidManifest.xml:20:5-44
+INJECTED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml
+INJECTED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml
+		ADDED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/deepikaonteru/Desktop/AndroidPhotos61/app/src/main/AndroidManifest.xml

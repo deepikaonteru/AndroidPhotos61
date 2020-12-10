@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.androidphotos82"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="28"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.androidphotos61.SearchResults"
+            android:label="@string/title_activity_search_results"
+            android:parentActivityName="com.example.androidphotos61.SearchActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.androidphotos61.SearchActivity" />
+        </activity>
+        <activity
+            android:name="com.example.androidphotos61.SearchActivity"
+            android:label="@string/title_activity_search"
+            android:parentActivityName="com.example.androidphotos61.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.androidphotos61.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.androidphotos61.MoveToAlbum"
+            android:label="@string/title_activity_move_to_album"
+            android:parentActivityName="com.example.androidphotos61.PhotoDisplay"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.androidphotos61.PhotoDisplay" />
+        </activity>
+        <activity
+            android:name="com.example.androidphotos61.AddTag"
+            android:label="@string/title_activity_add_tag"
+            android:parentActivityName="com.example.androidphotos61.PhotoDisplay"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.androidphotos61.PhotoDisplay" />
+        </activity>
+        <activity
+            android:name="com.example.androidphotos61.PhotoDisplay"
+            android:label="@string/title_activity_photo_display"
+            android:parentActivityName="com.example.androidphotos61.PhotosList"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.androidphotos61.PhotosList" />
+        </activity>
+        <activity
+            android:name="com.example.androidphotos61.AddPhoto"
+            android:label="@string/title_activity_add_photo"
+            android:parentActivityName="com.example.androidphotos61.PhotosList"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.androidphotos61.PhotosList" />
+        </activity>
+        <activity
+            android:name="com.example.androidphotos61.PhotosList"
+            android:label="@string/title_activity_photos_list"
+            android:parentActivityName="com.example.androidphotos61.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.androidphotos61.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.androidphotos61.AddAlbum"
+            android:label="@string/title_activity_add_movie"
+            android:parentActivityName="com.example.androidphotos61.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.androidphotos61.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.androidphotos61.MainActivity"
+            android:label="Albums" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

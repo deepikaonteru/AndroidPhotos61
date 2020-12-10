@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/tagItemString"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:paddingLeft="8dp"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/deleteTagButton"
+        android:layout_width="69dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:text="Delete"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/edit_btn"
+        android:layout_width="58dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="4dp"
+        android:layout_toLeftOf="@id/deleteTagButton"
+        android:text="Edit"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/view_btn"
+        android:layout_width="86dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="4dp"
+        android:layout_toStartOf="@+id/edit_btn"
+        android:layout_toLeftOf="@id/edit_btn"
+        android:text="View Photos"
+        android:textSize="12sp" />
+
+</RelativeLayout>
